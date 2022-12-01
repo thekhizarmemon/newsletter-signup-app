@@ -1,0 +1,15 @@
+{
+  "name": "newslettersignupapp",
+  "version": "1.0.0",
+  "description": "Newsletter Signup application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Khizar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
